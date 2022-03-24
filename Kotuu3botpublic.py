@@ -359,4 +359,4 @@ async def help(ctx):
 
 
 
-client.run("OTQzNDg0MDgwMzY2OTQ0MjY2.YgzuBQ._XkoeGbHka9NOEnaiHJANdgOSkw")
+client.run("TOKEN")
